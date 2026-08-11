@@ -1,12 +1,21 @@
+<a href="https://lucamawyin.com">
+
 <p align="center">
-  <a href="https://lucamawyin.com">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hi!%20I'm%20Luca%20Mawyin" alt="Hi! I&#39;m Luca Mawyin" />
-  </a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hi!%20I'm%20Luca%20Mawyin"
+    alt="Hi! I'm Luca Mawyin"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=360&height=44&lines=Software%20Developer" alt="Typing headlines" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=360&height=44&lines=Software%20Developer"
+    alt="Typing headlines"
+  />
 </p>
+
+</a>
+
 
 ### 🚀 About Me
 
