@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/LucaMawyin">
+  <a href="https://lucamawyin.com">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hi!%20I'm%20Luca%20Mawyin" alt="Hi! I&#39;m Luca Mawyin" />
   </a>
 </p>
