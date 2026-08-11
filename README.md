@@ -21,7 +21,6 @@
 
 I am a software developer who enjoys clean UIs and responsive applications. I strive to make all of my projects as  accessible and available as possible.
 
-💬 &nbsp;Ask me about **React, Next.js, Web Hosting**  
 😄 &nbsp;Pronouns: **he/him**
 
 ### 🔗 Connect With Me
