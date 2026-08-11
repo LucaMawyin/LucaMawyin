@@ -1,4 +1,4 @@
-<a href="https://lucamawyin.com">
+<a href="https://lucamawyin.com" target="_blank">
 
 <p align="center">
   <img
