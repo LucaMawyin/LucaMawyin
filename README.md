@@ -100,6 +100,8 @@ I am a software developer who enjoys clean UIs and responsive applications. I st
   <img src="https://img.shields.io/badge/CVAT-FF6B35?style=for-the-badge&logoColor=white" alt="CVAT" />
   <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white" alt="YOLO" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
 
